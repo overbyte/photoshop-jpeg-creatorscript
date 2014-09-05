@@ -13,7 +13,7 @@ This will guide you through a series of steps to create the jpeg:
 
 * Select the area in the Photoshop file that the jpeg will be created from
 
-* You should run the action
+* You should run the script - it may be easiest to set an action to do this
 
 * Add the path to the directory you wish to save the files in
 
